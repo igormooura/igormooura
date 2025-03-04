@@ -19,11 +19,8 @@ I’m a Computer Science student always eager to learn more about full-stack dev
 
 
 ## Rapidfire  
-<tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [AppFinanceiro](https://github.com/igormooura/AppFinanceiro)    
+<tr><td valign="top" width="50%"> 
   
-
 - 🌱 Computer Science student     
 
 
