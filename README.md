@@ -11,28 +11,6 @@
 
 
 
-### Glad to see you here!  
-I’m a Computer Science student always eager to learn more about full-stack development and seeking better opportunities to grow in the field.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<tr><td valign="top" width="50%"> 
-  
-- 🌱 Computer Science student     
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
